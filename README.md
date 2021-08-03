@@ -1,4 +1,4 @@
-# For source package access, uncomment the following line
+# arm64 sources.list
 
 
 deb http://http.kali.org/kali kali-rolling main contrib non-free 
